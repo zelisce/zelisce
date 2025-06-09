@@ -35,8 +35,8 @@
   What do I do?
 </h2>
 
-I am mainly a Minecraft Addon Developer with intermediate JSON-UI and advanced Script API knowledge.<br>
-Responsible for the `RockWrap` wrapper and partially the history of polish Bedrock Community!
+I am mainly a Minecraft Addon Developer with advanced JSON-UI and Script API knowledge.<br>
+I am also a Mineville JSON UI and Advent Studios developer!
 
 <h2 align="center">
   What do I need?
