@@ -36,7 +36,7 @@
 </h2>
 
 I am mainly a Minecraft Addon Developer with advanced JSON-UI and Script API knowledge.<br>
-I am also a Mineville JSON UI and Advent Studios developer!
+Former Mineville Developer, and current CraftersMC Developer.
 
 <h2 align="center">
   What do I need?
