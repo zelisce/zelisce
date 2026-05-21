@@ -36,7 +36,7 @@
 </h2>
 
 I am mainly a Minecraft Addon Developer with advanced JSON-UI and Script API knowledge.<br>
-Former Mineville Developer, and current CraftersMC Developer.
+Former Mineville Developer, current CraftersMC Developer and CEO of MCBE.Host!
 
 <h2 align="center">
   What do I need?
